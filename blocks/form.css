@@ -46,6 +46,12 @@
     line-height: 20px;
     color: #fff;
     background-color: #1878DC;
+    cursor: pointer;
+    transition: background-color 0.5s;
+  }
+
+  .form__button:hover {
+    background-color: #3f96f3;
   }
 
   .form__checkbox {
